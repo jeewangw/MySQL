@@ -1,0 +1,4 @@
+For this part of the project I used
+ MySQL Workbench along with the MySQL command line client.
+
+For importing the files, I imported the files through the navigator panel after creating the required tables.
